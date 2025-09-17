@@ -1,4 +1,4 @@
-<img src="book.jpeg" class="logo" width="120"/>
+<img src="book.jpg" class="logo" width="120"/>
 <img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
 
 # Bookworm
