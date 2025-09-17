@@ -1,4 +1,4 @@
-<img src="logo.jpeg" class="logo" width="120"/>
+<img src="book.jpeg" class="logo" width="120"/>
 <img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
 
 # Bookworm
@@ -24,10 +24,12 @@ On Linux:
 3. Run program
 
 ## How it Works 
-
+User can add, modify or search books in .xlsx file using Bookworm. Deleted books are stored into a seperate list.
 
 ## Roadmap / Future Enhancements  
-
+- adding more themes
+- more efficient language support
+- update system
 ---
 
 If you have questions, feature requests or want to contribute, reach out to **C0m3b4ck.**
