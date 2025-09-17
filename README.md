@@ -14,7 +14,7 @@ I wanted to make a simpler program than the ones available in Polish.
 ## Requirements  
 - Python 3.x (tested on Python 3.13)  
 - Runs on Linux (tested on Ubuntu Linux) and Windows (tested Windows 11)
-- Uses standard Python libraries: `os`, `re`, `subprocess`, `socket`  
+- Python libraries from requirements.txt 
 
 ## Installation  
 On Windows: just run the .exe
@@ -27,9 +27,9 @@ On Linux:
 User can add, modify or search books in .xlsx file using Bookworm. Deleted books are stored into a seperate list.
 
 ## Roadmap / Future Enhancements  
-- adding more themes
-- more efficient language support
-- update system
+- adding more color themes
+- more efficient language support (not hardcoded)
+- program update system
 ---
 
 If you have questions, feature requests or want to contribute, reach out to **C0m3b4ck.**
