@@ -1,4 +1,4 @@
-<img src="book.jpg" class="logo" width="120"/>
+<img src="book2.png" class="logo" width="120"/>
 <img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
 
 # Bookworm
@@ -21,15 +21,18 @@ On Windows: just run the .exe
 On Linux: 
 1. Make a Python 3.13 virtual environment
 2. Run 'pip install -r requirements.txt'
-3. Run program
+3. Run program .py
 
 ## How it Works 
 User can add, modify or search books in .xlsx file using Bookworm. Deleted books are stored into a seperate list.
 
+## Instructions
+Planning on making an instruction written in Markdown.
+
 ## Roadmap / Future Enhancements  
-- adding more color themes
 - more efficient language support (not hardcoded)
 - program update system
+- QoL fixes
 ---
 
 If you have questions, feature requests or want to contribute, reach out to **C0m3b4ck.**
