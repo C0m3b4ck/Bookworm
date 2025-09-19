@@ -17,8 +17,9 @@ I wanted to make a simpler program than the ones available in Polish.
 - Python libraries from requirements.txt 
 
 ## Installation  
-On Windows: just run the .exe
-On Linux: 
+***On Windows:*** just run the .exe installer, then run bookworm executable.
+<br>
+<br>***On Linux:*** 
 1. Make a Python 3.13 virtual environment
 2. Run 'pip install -r requirements.txt'
 3. Run program .py
