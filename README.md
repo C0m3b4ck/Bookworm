@@ -28,7 +28,7 @@ I wanted to make a simpler program than the ones available in Polish.
 User can add, modify or search books in .xlsx file using Bookworm. Deleted books are stored into a seperate list.
 
 ## Instructions
-Planning on making an instruction written in Markdown.
+Planning on making an instruction written in Markdown, both for users and for developers.
 
 ## Roadmap / Future Enhancements  
 - more efficient language support (not hardcoded)
