@@ -32,8 +32,8 @@ Planning on making an instruction written in Markdown, both for users and for de
 
 ## Roadmap / Future Enhancements  
 - more efficient language support (not hardcoded)
-- program update system
-- QoL fixes
+- program update system based on Github API (currently untested)
+- QoL fixes (will add more as I use the program more)
 ---
 
 If you have questions, feature requests or want to contribute, reach out to **C0m3b4ck.**
