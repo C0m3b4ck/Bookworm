@@ -32,7 +32,8 @@ Planning on making an instruction written in Markdown, both for users and for de
 
 ## Roadmap / Future Enhancements  
 - more efficient language support (not hardcoded)
-- program update system based on Github API (currently untested)
+- passphrase for password recovery
+- program update system based on Github releases
 - QoL fixes (will add more as I use the program more)
 ---
 
