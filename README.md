@@ -13,7 +13,7 @@ I wanted to make a simpler program than the ones available in Polish.
 
 ## Requirements  
 - Python 3.x (tested on Python 3.13)  
-- Runs on Linux (tested on Ubuntu Linux) and Windows (tested Windows 11)
+- Runs on Linux (tested on Ubuntu Linux, though lacks some functionality) and Windows (tested Windows 11)
 - Python libraries from requirements.txt 
 
 ## Installation  
