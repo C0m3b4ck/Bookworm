@@ -1,2 +1,4 @@
 tk
-openpyxl
+pywin32
+cryptography
+
