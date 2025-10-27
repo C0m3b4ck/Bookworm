@@ -33,6 +33,10 @@ Zamierzam napisać instrukcję zarówno dla użytkowników, jak i dla deweloper�
 - [ZROBIONE] fraza do odzyskania haseł
 - [ZROBIONE] aktualizacja programu oparta na Github
 - [TRWA] Poprawki QoL (będą się pojawiały wraz z korzystaniem programu przeze mnie)
+- pokaż wskazówki (oddzielne wskazówki dla superadmina, admina i nie-admina, wyłączalne w ustawieniach)
+- sprawdzenie nowej wersji w tle (tylko superadmin)
+- [BŁĄD] popup "Dzielona baza danych już istnieje" nie wyświetla się
+- [BUG] "Yes/No" w menu tworzenia superadmina pomimo języka zaznaczonego jako polski
 ---
 
 Jeśli masz jakieś pytania, chcesz się przyczynić lub masz pomysł na zmianę programu, skontaktuj się z **C0m3b4ck.**
