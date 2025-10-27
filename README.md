@@ -26,17 +26,18 @@ I wanted to make a simpler program than the ones available in Polish.
 2. Run 'pip install -r requirements.txt'
 3. Run program .py
 
-## How it Works 
-User can add, modify or search books in .xlsx file using Bookworm. Deleted books are stored into a seperate list.
-
 ## Instructions
 Planning on making an instruction written in Markdown, both for users and for developers.
 
 ## Roadmap / Future Enhancements  
 - more efficient language support (not hardcoded)
-- passphrase for password recovery
-- program update system based on Github releases
-- QoL fixes (will add more as I use the program more)
+- [DONE] passphrase for password recovery
+- [DONE] program update system based on Github releases
+- [IN PROGRESS] QoL fixes (will add more as I use the program more)
+- show tips (seperate tips for superadmin, admin and non-admin, disableable in settings)
+- run background check for update (superadmin only)
+- [ERROR] fix "Shared DB already exists" popup not appearing
+- [BUG] "Yes/No" in superadmin creation menu even though language is Polish
 ---
 
 If you have questions, feature requests or want to contribute, reach out to **C0m3b4ck.**
