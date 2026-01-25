@@ -2,8 +2,8 @@
 <img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
 -----> <a href=https://github.com/C0m3b4ck/Bookworm/blob/main/README.md> 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸English Version 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 </a> <-----
 
-# Note
-Currently supported version: <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a>
+# PRZEJDŹ NA WSPIERANĄ WERSJĘ
+Wspierana wersja programu: <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a>
 
 # Bookworm
 
@@ -12,7 +12,7 @@ Program do zarządzania książkami, przeznaczony dla Windows, lecz działający
 ## Przycznyniający
 Rozpoczęto 16 września, 2025 przez C0m3b4ck.
 
-# Dlaczego to zrobiłęm
+# Dlaczego to zrobiłem
 Chciałem zrobić prostszy program niż te dostępne po polsku.
 
 ## Wymagania  
