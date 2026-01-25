@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
 -----> <a href=https://github.com/C0m3b4ck/Bookworm/blob/main/README-PL.md> 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱 Polska Wersja 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a> <-----
 
-# Note
+# SWITCH TO SUPPORTED VERSION
 Currently supported version: <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a>
 
 # Bookworm
