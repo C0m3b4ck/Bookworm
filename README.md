@@ -1,6 +1,6 @@
 <img src="book2.png" class="logo" width="120"/>
-<img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
------> <a href=https://github.com/C0m3b4ck/Bookworm/blob/main/README-PL.md> 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱 Polska Wersja 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a> <-----
+<img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total"> <b>🇪🇺🇪🇺🇪🇺Made in Europe🇪🇺🇪🇺🇪🇺</b>
+<br>-----> <a href=https://github.com/C0m3b4ck/Bookworm/blob/main/README-PL.md> 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱 Polska Wersja 🇵🇱🇵🇱🇵🇱🇵🇱🇵🇱</a> <-----</br>
 
 # SWITCH TO SUPPORTED VERSION
 Currently supported version: <a href=https://github.com/C0m3b4ck/Bookworm-VisualBasic>BookwormVB</a>
